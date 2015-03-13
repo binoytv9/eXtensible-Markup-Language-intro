@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<library>
+    <book>
+        <name>Beej's Quick Guide to Unix IPC</name>
+        <author>Beej</author>
+        <price>150</price>
+    </book>
+
+    <book>
+        <name>Linux Threads</name>
+        <author>Pramode C E</author>
+        <price>280</price>
+    </book>
+
+    <book>
+        <name>C programming language</name>
+        <author>Kernighan and Ritchie</author>
+        <price>200</price>
+    </book>
+
+    <book>
+        <name>The Linux Programming Interface</name>
+        <author>Michael Kerrisk</author>
+        <price>250</price>
+    </book>
+
+    <book>
+        <name>Dive into Python</name>
+        <author>Mark Pilgrim</author>
+        <price>175</price>
+    </book>
+
+    <book>
+        <name>Think Python</name>
+        <author>Allen B Downey</author>
+        <price>220</price>
+    </book>
+
+    <book>
+        <name>Eloquent JavaScript</name>
+        <author>Marijn Haverbeke</author>
+        <price>275</price>
+    </book>
+</library>
