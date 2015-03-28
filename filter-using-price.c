@@ -35,7 +35,7 @@ main(int argc, char *argv[])
     // checking root element is "library"
     if(xmlStrcmp(cur->name, (const xmlChar *) "library")){
         xmlFreeDoc(doc);
-        errExit("doc of the wrong type, root node != story\n");
+        errExit("doc of the wrong type, root node != library\n");
     }
 
     cur = cur->xmlChildrenNode;
